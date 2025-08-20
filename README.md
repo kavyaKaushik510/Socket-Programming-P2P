@@ -119,13 +119,6 @@ py leecher.py
 - Each file download spawns a new seeder from the leecher side
 - Always terminate with `exit` or `no` when prompted to prevent orphan processes
 
-## Authors
-
-Team 44 – University of Cape Town  
-- Shriya Inderpal (INDSHR002)  
-- Aria Jeewon (JWNAR001)  
-- Kavya Kaushik (KSHKAV001)
-
 ## License
 
 This project was developed as part of the CSC3002F Networks course.  
